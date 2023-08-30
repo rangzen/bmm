@@ -1,5 +1,7 @@
 # Le Baton de Marche du Maraudeur
 
+maraude /ma.ʁod/ féminin : recherche pour assistance auprès des sans domicile fixe.
+
 * [Introduction](./intro.html)
 * [Préparation](./preparation.html)
 * [La maraude](./maraude.html)
