@@ -61,3 +61,5 @@ Vérifier les procédures de vos organismes. Ça prend toujours moins de temps d
 - Est-ce qu'on a bien lu les comptes rendus précédents ?
 - Est-ce qu'on a des objectifs particuliers pour cette maraude ?
 - Est-ce qu'on va faire des pauses ? Le cas échéant : quand, où, combien de temps ?
+
+[retour](./index.html)

@@ -53,3 +53,5 @@ ans et dont on ne sait rien (ce sera peut être l'objet d'un autre livre). Ils s
 À l'opposé, j'essaye de ne jamais dire « On vous laisse », je préfère « On va continuer ».
 
 Soyez souple et adaptez vous, un mot peut être adéquat un soir et complètement déplacé le lendemain, adapté à une personne mais pas à une autre.
+
+[retour](./index.html)

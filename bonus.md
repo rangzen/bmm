@@ -97,3 +97,5 @@ Voilà comment s'achève une nuit humaine, agitée et très formatrice avec l'EM
 Parfois, je me dis que si on ne parlait pas avec telle ou telle personne, elle pourrait rester des jours sans que quelqu'un lui parle. Pour moi, ça justifie tout.
 
 J'espère qu'ils dormiront bien au chaud, il est 5h18, paris s'endort, Paris s'éveille.
+
+[retour](./index.html)

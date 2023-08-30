@@ -11,4 +11,6 @@ J'ai pu marauder avec des professionnels, c'est un métier à part entière.
 
 Préservez-vous pour tenir dans la durée.
 
-Liberté, partage et respect. 
+Liberté, partage et respect.
+
+[retour](./index.html)
