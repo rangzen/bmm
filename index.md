@@ -17,4 +17,4 @@ maraude /ma.ʁod/ féminin : recherche pour assistance auprès des sans domicile
 * 2013-03-23, prise en compte des remarques de Myriam V.  
 * 2014-01-30, mise à jour mineure et formatage pour LeanPub, ajout du compte rendu en «bonus»  
 * 2014-02-07, prise en compte des remarques et corrections de Christian L.
-* 2023-08-30, mise en ligne sur GitHub.
+* 2023-08-30, mise en ligne sur GitHub car plus de téléchargement gratuit sur LeanPub.
